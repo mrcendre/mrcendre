@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/guillaumecendre"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/guillaumecendre"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.behance.net/cendre"><img src="https://img.shields.io/badge/Behance--_.svg?style=social&logo=behance" alt="Behance"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dribbble.com/cendre"><img src="https://img.shields.io/badge/Dribbble--_.svg?style=social&logo=dribbble" alt="Dribbble"></a> 
 
 <!--
 **mrcendre/mrcendre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
